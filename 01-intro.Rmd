@@ -6,6 +6,7 @@ All chapters start with a first-level heading followed by your chapter title, li
 
 1. What if I try to make a [link](https://nceas.github.io/oss-lessons/version-control/1-git-basics.html)?
 1. What if I try to add a [link](https://nceas.github.io/oss-lessons/version-control/1-git-basics.html) via the web interface?
+1. Testing out the difference between exempting a special character: e.g. \<Latitude\> and putting the whole thing in quotes "<Latitude>".
 
 All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
 
